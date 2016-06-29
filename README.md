@@ -1,7 +1,7 @@
-# PetagramMenuFragment
-Tarea de Menu y Fragments en Petagram, de la Semana 4 del Curso 3
+# PetagramPersistencia
+Tarea de Persistencia en Petagram, de la Semana 5 del Curso 3
 
-Modelo de la base de Datos creada
+Modelo de la base de Daatos creada
 
 [![Pantalla 1](https://github.com/jmdra/PetagramPersistencia/blob/master/modelobd.png)](#Pantalla)
 
