@@ -1,26 +1,15 @@
 # PetagramMenuFragment
 Tarea de Menu y Fragments en Petagram, de la Semana 4 del Curso 3
 
-En la Primer Pantalla se observan los Tab con fragments cada uno de ellos.
-[![Pantalla 1](https://github.com/jmdra/PetagramMenuFragment/blob/master/MenuFragments1.png)](#Pantalla)
+Modelo de la base de Datos creada
+[![Pantalla 1](https://github.com/jmdra/PetagramPersistencia/blob/master/modelobd.png](#Pantalla)
 
-En la Segunda pantalla observamos el segundo fragment, con el Recyclerview pedido y la foto de perfil
+En la Primer Pantalla se observan el Fragment con Datos Dummy, si das click en favorito, agrega esta mascota en la bd y suma los likes
+Ademas de que si das click en el icono de estrella te llevara a los 5 favoritos con mas rating
 
-[![Pantalla 1](https://github.com/jmdra/PetagramMenuFragment/blob/master/MenuFragments2.png)](#Pantalla)
+[![Pantalla 1](https://github.com/jmdra/PetagramPersistencia/blob/master/Persistencia1.png](#Pantalla)
 
-En la Tercer Imagen vemos el Toolbar con las Opciones de Contacto que nos lleva a enviar un correo y Acerca de con biografia del Desarrollador
+En la Segunda pantalla observamos los 5 favoritos con mas rating de mayor a menor, esto estan insertados en la bd, y generan persistencia
+si no has dado like a ninguna mascota, esta pantalla no tendra ningun favorito
 
-[![Pantalla 1](https://github.com/jmdra/PetagramMenuFragment/blob/master/MenuFragments3.png)](#Pantalla)
-
-En la Cuarta Pantalla Vemos el Formulario para Enviar el Correo Electronico con los comentarios, si introduces bien tu email te llegara una cc a tu email
-
-[![Pantalla 1](https://github.com/jmdra/PetagramMenuFragment/blob/master/MenuFragments4.png)](#Pantalla)
-
-En la Quinta Imagen Vemos el Acerca de del Desarrollador
-[![Pantalla 1](https://github.com/jmdra/PetagramMenuFragment/blob/master/MenuFragments5.png)](#Pantalla)
-
-Todos los Activity tienen el Menu del Toolbar
-[![Pantalla 1](https://github.com/jmdra/PetagramMenuFragment/blob/master/MenuFragments6.png)](#Pantalla)
-
-
-
+[![Pantalla 1](https://github.com/jmdra/PetagramPersistencia/blob/master/Persistencia2.png](#Pantalla)
